@@ -11,7 +11,7 @@ class Add
 	}
 	void showAdd()
 	{
-		System.out.printf("Addition is : %d\n  ",a+b);
+		System.out.printf("Addition is : %d\n  ",a+b); 
 	}
 }
 public class AddApp {
